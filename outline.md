@@ -5,3 +5,4 @@
 
 # TASK OUTLINE
 - Listen for user inputs via keyboard
+- Accept intial arguments i.e filename etc
