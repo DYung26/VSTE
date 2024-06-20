@@ -2,3 +2,6 @@
 
  - Note: Tasks will be assigned to user
 [] Completed tasks will be checked this way -> [X]
+
+# TASK OUTLINE
+- Listen for user inputs via keyboard
